@@ -1,6 +1,5 @@
-#verifier l'existance du fichier dans le repertoire
 #!/bin/bash
-
+##verifier l'existance du fichier dans le repertoire
 # recuperation du nom du fichier
 echo -n "entrez le nom du fichier : "
 read -r  nom_fichier #read -p "message" variable
